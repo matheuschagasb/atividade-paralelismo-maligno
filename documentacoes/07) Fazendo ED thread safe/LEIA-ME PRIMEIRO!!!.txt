@@ -1,0 +1,5 @@
+Se compilarmos a classe Vector disponibilizada nesta pasta,
+verificaremos que erros serão acusados ao chamar clone no
+método add e no método remove.
+Na próxima aula veremos porque isso acontece e como
+resolver!
